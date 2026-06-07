@@ -2,50 +2,55 @@
 
 ## Participant Details
 
-**Full Name:**  
-<!-- Write your full name -->
+**Full Name:** Md Sayem Saif
 
-**GitHub Username:**  
-<!-- Write your GitHub username -->
+**GitHub Username:** sayem-saif
 
-**Team Name:**  
-<!-- Write your team name -->
+**Team Name:** Studixa
 
-**College/University:**  
-<!-- Write your college/university name -->
+**College/University:** SR University, Warangal
 
 ---
 
 ## Project Details
 
-**Project Title:**  
-<!-- Write your project/idea title -->
+### Project Title
 
-**Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+**IdeaBee – AI-Powered Startup Builder**
 
-**Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+### Project Description
 
-**GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+IdeaBee is a multi-agent AI platform that transforms raw startup ideas into startup-ready assets. The system uses multiple AI agents to refine ideas, conduct market research, generate deployable websites, create investor-ready pitch decks, and produce professional pitch speeches. The goal is to help founders, students, and innovators move from idea to presentation-ready outputs within minutes.
 
-**Live Demo Link:**  
-<!-- Add deployed link if available -->
+### Tech Stack Used
 
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+* Python
+* Streamlit
+* LangGraph
+* LangChain
+* OpenAI / Groq APIs
+* HTML
+* CSS
+* JavaScript
+* RAG (Retrieval-Augmented Generation)
+* python-pptx
+* ReportLab
+* GitHub
+
+### GitHub Repository Link
+
+(https://github.com/sayem-saif/ideabee)
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+* [x] My project is public on GitHub
+* [x] My repository has a proper README.md
+* [x] I have added setup/installation instructions
+* [x] I have added screenshots/demo where possible
+* [ ] I have added a license file
+* [x] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +58,46 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+* [x] I have starred the Memori Labs GitHub repository
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+* [x] I have followed Memori Labs on LinkedIn
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+* [x] I have followed Memori Labs on X
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+* [x] I have checked Memori Labs social links
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+* [ ] I have generated my ID card from https://oshack.xyz
+
+* [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
+
+## Project Status
+
+ Prototype Completed
+
+ Actively Improving Multi-Agent Workflow
+
+ Website Generation Implemented
+
+ Pitch Deck Generation Implemented
+
+ RAG Pipeline Integrated
+
+ Automated Pitch Speech Generation Implemented
+
+ Unified Startup Asset Delivery System Implemented
+
+---
+
+## Vision
+
+IdeaBee aims to become an AI-powered startup studio that helps anyone transform an idea into a professional website, investor-ready pitch deck, market research report, and presentation package with minimal effort and maximum speed.
